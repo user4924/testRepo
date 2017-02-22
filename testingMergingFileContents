@@ -2,3 +2,6 @@ locally: line 1
 locally: line 3
 remote: line 2
 locally: line 4 - done after the auto merge happened
+
+
+locally: line 5 - further test merging
