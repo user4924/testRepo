@@ -1,7 +1,4 @@
 locally: line 1
-<<<<<<< HEAD
 locally: line 3
-=======
 remote: line 2
->>>>>>> 1a24c43d342743c327d1513fa03d64f7ca17e118
 locally: line 4 - done after the auto merge happened
